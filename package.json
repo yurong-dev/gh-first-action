@@ -1,0 +1,23 @@
+{
+  "name": "learning2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yurong-dev@github.com/yurong-dev/gh-first-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurong-dev/gh-first-action/issues"
+  },
+  "homepage": "https://github.com/yurong-dev/gh-first-action#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
